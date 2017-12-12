@@ -1,0 +1,12 @@
+atom-mocha-snippets
+atom-quokka
+autoclose-html
+busy-signal
+fonts
+intentions
+language-haskell
+language-javascript-jsx
+language-scala
+linter
+linter-eslint
+linter-ui-default
